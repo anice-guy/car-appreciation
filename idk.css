@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+.border {
+    border-style: solid;
+    border-color: black;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
